@@ -16,7 +16,7 @@
       "required": false
     },
     "vindex": {
-      "description": "伪装网站，填写一个真实网站地址",
+      "description": "lovelytab.com",
       "value": "",
       "required": false
     }
